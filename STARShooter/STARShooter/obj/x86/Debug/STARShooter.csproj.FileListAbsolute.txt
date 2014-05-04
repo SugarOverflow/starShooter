@@ -1,0 +1,78 @@
+c:\users\fatima\documents\visual studio 2010\Projects\STARShooter\STARShooter\STARShooter\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\fatima\documents\visual studio 2010\Projects\STARShooter\STARShooter\STARShooter\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\fatima\documents\visual studio 2010\Projects\STARShooter\STARShooter\STARShooter\bin\x86\Debug\STARShooter.exe
+c:\users\fatima\documents\visual studio 2010\Projects\STARShooter\STARShooter\STARShooter\bin\x86\Debug\STARShooter.pdb
+c:\users\fatima\documents\visual studio 2010\Projects\STARShooter\STARShooter\STARShooter\obj\x86\Debug\STARShooter.exe
+c:\users\fatima\documents\visual studio 2010\Projects\STARShooter\STARShooter\STARShooter\obj\x86\Debug\STARShooter.pdb
+c:\users\fatima\documents\visual studio 2010\Projects\STARShooter\STARShooter\STARShooter\bin\x86\Debug\Content\sprites\bg.xnb
+c:\users\fatima\documents\visual studio 2010\Projects\STARShooter\STARShooter\STARShooter\bin\x86\Debug\Content\sprites\bullet.xnb
+c:\users\fatima\documents\visual studio 2010\Projects\STARShooter\STARShooter\STARShooter\bin\x86\Debug\Content\sprites\enemy.xnb
+c:\users\fatima\documents\visual studio 2010\Projects\STARShooter\STARShooter\STARShooter\bin\x86\Debug\Content\sprites\ship.xnb
+c:\users\fatima\documents\visual studio 2010\Projects\STARShooter\STARShooter\STARShooter\bin\x86\Debug\Content\sprites\ship2.xnb
+c:\users\fatima\documents\visual studio 2010\Projects\STARShooter\STARShooter\STARShooter\bin\x86\Debug\Content\sprites\ship3.xnb
+C:\Users\Fatima\Downloads\STARShooter (1)\STARShooter\STARShooter\STARShooter\bin\x86\Debug\Content\sprites\bg.xnb
+C:\Users\Fatima\Downloads\STARShooter (1)\STARShooter\STARShooter\STARShooter\bin\x86\Debug\Content\sprites\bullet1.xnb
+C:\Users\Fatima\Downloads\STARShooter (1)\STARShooter\STARShooter\STARShooter\bin\x86\Debug\Content\sprites\enemy1.xnb
+C:\Users\Fatima\Downloads\STARShooter (1)\STARShooter\STARShooter\STARShooter\bin\x86\Debug\Content\sprites\enemyy2.xnb
+C:\Users\Fatima\Downloads\STARShooter (1)\STARShooter\STARShooter\STARShooter\bin\x86\Debug\Content\sprites\enemyy3.xnb
+C:\Users\Fatima\Downloads\STARShooter (1)\STARShooter\STARShooter\STARShooter\bin\x86\Debug\Content\sprites\shooter1.xnb
+C:\Users\Fatima\Downloads\STARShooter (1)\STARShooter\STARShooter\STARShooter\bin\x86\Debug\Content\sprites\shooter2.xnb
+C:\Users\Fatima\Downloads\STARShooter (1)\STARShooter\STARShooter\STARShooter\bin\x86\Debug\Content\sprites\shooter3.xnb
+C:\Users\Fatima\Downloads\STARShooter (1)\STARShooter\STARShooter\STARShooter\bin\x86\Debug\STARShooter.exe
+C:\Users\Fatima\Downloads\STARShooter (1)\STARShooter\STARShooter\STARShooter\bin\x86\Debug\STARShooter.pdb
+C:\Users\Fatima\Downloads\STARShooter (1)\STARShooter\STARShooter\STARShooter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fatima\Downloads\STARShooter (1)\STARShooter\STARShooter\STARShooter\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Fatima\Downloads\STARShooter (1)\STARShooter\STARShooter\STARShooter\obj\x86\Debug\STARShooter.exe
+C:\Users\Fatima\Downloads\STARShooter (1)\STARShooter\STARShooter\STARShooter\obj\x86\Debug\STARShooter.pdb
+C:\Users\Tony\Downloads\STARShooter (1)\STARShooter (1)\STARShooter\STARShooter\STARShooter\bin\x86\Debug\Content\sprites\bg.xnb
+C:\Users\Tony\Downloads\STARShooter (1)\STARShooter (1)\STARShooter\STARShooter\STARShooter\bin\x86\Debug\Content\sprites\bullet1.xnb
+C:\Users\Tony\Downloads\STARShooter (1)\STARShooter (1)\STARShooter\STARShooter\STARShooter\bin\x86\Debug\Content\sprites\enemy1.xnb
+C:\Users\Tony\Downloads\STARShooter (1)\STARShooter (1)\STARShooter\STARShooter\STARShooter\bin\x86\Debug\Content\sprites\enemyy2.xnb
+C:\Users\Tony\Downloads\STARShooter (1)\STARShooter (1)\STARShooter\STARShooter\STARShooter\bin\x86\Debug\Content\sprites\enemyy3.xnb
+C:\Users\Tony\Downloads\STARShooter (1)\STARShooter (1)\STARShooter\STARShooter\STARShooter\bin\x86\Debug\Content\sprites\shooter1.xnb
+C:\Users\Tony\Downloads\STARShooter (1)\STARShooter (1)\STARShooter\STARShooter\STARShooter\bin\x86\Debug\Content\sprites\shooter2.xnb
+C:\Users\Tony\Downloads\STARShooter (1)\STARShooter (1)\STARShooter\STARShooter\STARShooter\bin\x86\Debug\Content\sprites\shooter3.xnb
+C:\Users\Tony\Downloads\STARShooter (1)\STARShooter (1)\STARShooter\STARShooter\STARShooter\bin\x86\Debug\STARShooter.exe
+C:\Users\Tony\Downloads\STARShooter (1)\STARShooter (1)\STARShooter\STARShooter\STARShooter\bin\x86\Debug\STARShooter.pdb
+C:\Users\Tony\Downloads\STARShooter (1)\STARShooter (1)\STARShooter\STARShooter\STARShooter\obj\x86\Debug\STARShooter.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Downloads\STARShooter (1)\STARShooter (1)\STARShooter\STARShooter\STARShooter\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Tony\Downloads\STARShooter (1)\STARShooter (1)\STARShooter\STARShooter\STARShooter\obj\x86\Debug\STARShooter.exe
+C:\Users\Tony\Downloads\STARShooter (1)\STARShooter (1)\STARShooter\STARShooter\STARShooter\obj\x86\Debug\STARShooter.pdb
+C:\Users\Tony\Downloads\STARShooter (1)\STARShooter (1)\STARShooter\STARShooter\STARShooter\bin\x86\Debug\Content\sprites\earth.xnb
+C:\Users\Tony\Downloads\STARShooter (1)\STARShooter (1)\STARShooter\STARShooter\STARShooter\bin\x86\Debug\Content\sprites\wormhole.xnb
+C:\Users\Tony\Downloads\STARShooter (1)\STARShooter (1)\STARShooter\STARShooter\STARShooter\bin\x86\Debug\Content\sprites\wormhole2.xnb
+C:\Users\Fatima\Downloads\STARShooter (2)\STARShooter (1)\STARShooter (1)\STARShooter\STARShooter\STARShooter\bin\x86\Debug\Content\sprites\earth.xnb
+C:\Users\Fatima\Downloads\STARShooter (2)\STARShooter (1)\STARShooter (1)\STARShooter\STARShooter\STARShooter\bin\x86\Debug\Content\sprites\bg.xnb
+C:\Users\Fatima\Downloads\STARShooter (2)\STARShooter (1)\STARShooter (1)\STARShooter\STARShooter\STARShooter\bin\x86\Debug\Content\sprites\bullet1.xnb
+C:\Users\Fatima\Downloads\STARShooter (2)\STARShooter (1)\STARShooter (1)\STARShooter\STARShooter\STARShooter\bin\x86\Debug\Content\sprites\enemy1.xnb
+C:\Users\Fatima\Downloads\STARShooter (2)\STARShooter (1)\STARShooter (1)\STARShooter\STARShooter\STARShooter\bin\x86\Debug\Content\sprites\enemyy2.xnb
+C:\Users\Fatima\Downloads\STARShooter (2)\STARShooter (1)\STARShooter (1)\STARShooter\STARShooter\STARShooter\bin\x86\Debug\Content\sprites\enemyy3.xnb
+C:\Users\Fatima\Downloads\STARShooter (2)\STARShooter (1)\STARShooter (1)\STARShooter\STARShooter\STARShooter\bin\x86\Debug\Content\sprites\shooter1.xnb
+C:\Users\Fatima\Downloads\STARShooter (2)\STARShooter (1)\STARShooter (1)\STARShooter\STARShooter\STARShooter\bin\x86\Debug\Content\sprites\shooter2.xnb
+C:\Users\Fatima\Downloads\STARShooter (2)\STARShooter (1)\STARShooter (1)\STARShooter\STARShooter\STARShooter\bin\x86\Debug\Content\sprites\shooter3.xnb
+C:\Users\Fatima\Downloads\STARShooter (2)\STARShooter (1)\STARShooter (1)\STARShooter\STARShooter\STARShooter\bin\x86\Debug\Content\sprites\wormhole.xnb
+C:\Users\Fatima\Downloads\STARShooter (2)\STARShooter (1)\STARShooter (1)\STARShooter\STARShooter\STARShooter\bin\x86\Debug\Content\sprites\wormhole2.xnb
+C:\Users\Fatima\Downloads\STARShooter (2)\STARShooter (1)\STARShooter (1)\STARShooter\STARShooter\STARShooter\bin\x86\Debug\STARShooter.exe
+C:\Users\Fatima\Downloads\STARShooter (2)\STARShooter (1)\STARShooter (1)\STARShooter\STARShooter\STARShooter\bin\x86\Debug\STARShooter.pdb
+C:\Users\Fatima\Downloads\STARShooter (2)\STARShooter (1)\STARShooter (1)\STARShooter\STARShooter\STARShooter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fatima\Downloads\STARShooter (2)\STARShooter (1)\STARShooter (1)\STARShooter\STARShooter\STARShooter\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Fatima\Downloads\STARShooter (2)\STARShooter (1)\STARShooter (1)\STARShooter\STARShooter\STARShooter\obj\x86\Debug\STARShooter.exe
+C:\Users\Fatima\Downloads\STARShooter (2)\STARShooter (1)\STARShooter (1)\STARShooter\STARShooter\STARShooter\obj\x86\Debug\STARShooter.pdb
+C:\Users\Fatima\Desktop\STARShooter [working]\STARShooter\STARShooter\STARShooter\bin\x86\Debug\STARShooter.exe
+C:\Users\Fatima\Desktop\STARShooter [working]\STARShooter\STARShooter\STARShooter\bin\x86\Debug\STARShooter.pdb
+C:\Users\Fatima\Desktop\STARShooter [working]\STARShooter\STARShooter\STARShooter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fatima\Desktop\STARShooter [working]\STARShooter\STARShooter\STARShooter\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Fatima\Desktop\STARShooter [working]\STARShooter\STARShooter\STARShooter\obj\x86\Debug\STARShooter.exe
+C:\Users\Fatima\Desktop\STARShooter [working]\STARShooter\STARShooter\STARShooter\obj\x86\Debug\STARShooter.pdb
+C:\Users\Fatima\Desktop\STARShooter [working]\STARShooter\STARShooter\STARShooter\bin\x86\Debug\Content\background.xnb
+C:\Users\Fatima\Desktop\STARShooter [working]\STARShooter\STARShooter\STARShooter\bin\x86\Debug\Content\bullet.xnb
+C:\Users\Fatima\Desktop\STARShooter [working]\STARShooter\STARShooter\STARShooter\bin\x86\Debug\Content\center.xnb
+C:\Users\Fatima\Desktop\STARShooter [working]\STARShooter\STARShooter\STARShooter\bin\x86\Debug\Content\earth.xnb
+C:\Users\Fatima\Desktop\STARShooter [working]\STARShooter\STARShooter\STARShooter\bin\x86\Debug\Content\enemyy2.xnb
+C:\Users\Fatima\Desktop\STARShooter [working]\STARShooter\STARShooter\STARShooter\bin\x86\Debug\Content\enemyy3.xnb
+C:\Users\Fatima\Desktop\STARShooter [working]\STARShooter\STARShooter\STARShooter\bin\x86\Debug\Content\light.xnb
+C:\Users\Fatima\Desktop\STARShooter [working]\STARShooter\STARShooter\STARShooter\bin\x86\Debug\Content\shipsprite.xnb
+C:\Users\Fatima\Desktop\STARShooter [working]\STARShooter\STARShooter\STARShooter\bin\x86\Debug\Content\shooter2.xnb
+C:\Users\Fatima\Desktop\STARShooter [working]\STARShooter\STARShooter\STARShooter\bin\x86\Debug\Content\shooter3.xnb
+C:\Users\Fatima\Desktop\STARShooter [working]\STARShooter\STARShooter\STARShooter\bin\x86\Debug\Content\wormhole.xnb
+C:\Users\Fatima\Desktop\STARShooter [working]\STARShooter\STARShooter\STARShooter\bin\x86\Debug\Content\wormhole2.xnb

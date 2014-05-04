@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>background.png</Source>
+      <Name>background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Fatima\Desktop\STARShooter [working]\STARShooter\STARShooter\STARShooter\bin\x86\Debug\Content\background.xnb</Output>
+      <Time>2014-01-14T21:27:10.4851456-05:00</Time>
+    </Item>
+    <Item>
+      <Source>bullet.png</Source>
+      <Name>bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Fatima\Desktop\STARShooter [working]\STARShooter\STARShooter\STARShooter\bin\x86\Debug\Content\bullet.xnb</Output>
+      <Time>2014-01-14T21:27:10.4861456-05:00</Time>
+    </Item>
+    <Item>
+      <Source>center.png</Source>
+      <Name>center</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Fatima\Desktop\STARShooter [working]\STARShooter\STARShooter\STARShooter\bin\x86\Debug\Content\center.xnb</Output>
+      <Time>2014-01-14T21:27:10.4871457-05:00</Time>
+    </Item>
+    <Item>
+      <Source>earth.png</Source>
+      <Name>earth</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Fatima\Desktop\STARShooter [working]\STARShooter\STARShooter\STARShooter\bin\x86\Debug\Content\earth.xnb</Output>
+      <Time>2014-01-14T21:27:10.4891458-05:00</Time>
+    </Item>
+    <Item>
+      <Source>enemyy2.png</Source>
+      <Name>enemyy2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Fatima\Desktop\STARShooter [working]\STARShooter\STARShooter\STARShooter\bin\x86\Debug\Content\enemyy2.xnb</Output>
+      <Time>2014-01-14T21:27:10.4901458-05:00</Time>
+    </Item>
+    <Item>
+      <Source>enemyy3.png</Source>
+      <Name>enemyy3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Fatima\Desktop\STARShooter [working]\STARShooter\STARShooter\STARShooter\bin\x86\Debug\Content\enemyy3.xnb</Output>
+      <Time>2014-01-14T21:27:10.492146-05:00</Time>
+    </Item>
+    <Item>
+      <Source>light.png</Source>
+      <Name>light</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Fatima\Desktop\STARShooter [working]\STARShooter\STARShooter\STARShooter\bin\x86\Debug\Content\light.xnb</Output>
+      <Time>2014-01-14T21:27:10.493146-05:00</Time>
+    </Item>
+    <Item>
+      <Source>shipsprite.png</Source>
+      <Name>shipsprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Fatima\Desktop\STARShooter [working]\STARShooter\STARShooter\STARShooter\bin\x86\Debug\Content\shipsprite.xnb</Output>
+      <Time>2014-01-14T21:27:10.4941461-05:00</Time>
+    </Item>
+    <Item>
+      <Source>shooter2.png</Source>
+      <Name>shooter2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Fatima\Desktop\STARShooter [working]\STARShooter\STARShooter\STARShooter\bin\x86\Debug\Content\shooter2.xnb</Output>
+      <Time>2014-01-14T21:27:10.4961462-05:00</Time>
+    </Item>
+    <Item>
+      <Source>shooter3.png</Source>
+      <Name>shooter3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Fatima\Desktop\STARShooter [working]\STARShooter\STARShooter\STARShooter\bin\x86\Debug\Content\shooter3.xnb</Output>
+      <Time>2014-01-14T21:27:10.4981463-05:00</Time>
+    </Item>
+    <Item>
+      <Source>wormhole.png</Source>
+      <Name>wormhole</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Fatima\Desktop\STARShooter [working]\STARShooter\STARShooter\STARShooter\bin\x86\Debug\Content\wormhole.xnb</Output>
+      <Time>2014-01-14T21:27:10.5041466-05:00</Time>
+    </Item>
+    <Item>
+      <Source>wormhole2.png</Source>
+      <Name>wormhole2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Fatima\Desktop\STARShooter [working]\STARShooter\STARShooter\STARShooter\bin\x86\Debug\Content\wormhole2.xnb</Output>
+      <Time>2014-01-14T21:27:10.5051467-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Fatima\Desktop\STARShooter [working]\STARShooter\STARShooter\STARShooterContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Fatima\Desktop\STARShooter [working]\STARShooter\STARShooter\STARShooter\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Fatima\Desktop\STARShooter [working]\STARShooter\STARShooter\STARShooterContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Fatima\Desktop\STARShooter [working]\STARShooter\STARShooter\STARShooter\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-10-12T16:34:55.8880932-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

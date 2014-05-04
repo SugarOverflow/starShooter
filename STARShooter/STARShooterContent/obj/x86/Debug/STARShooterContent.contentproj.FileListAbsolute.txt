@@ -1,0 +1,5 @@
+c:\users\fatima\documents\visual studio 2010\Projects\STARShooter\STARShooter\STARShooterContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fatima\Downloads\STARShooter (1)\STARShooter\STARShooter\STARShooterContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tony\Downloads\STARShooter (1)\STARShooter (1)\STARShooter\STARShooter\STARShooterContent\obj\x86\Debug\STARShooterContent.contentprojResolveAssemblyReference.cache
+C:\Users\Fatima\Downloads\STARShooter (2)\STARShooter (1)\STARShooter (1)\STARShooter\STARShooter\STARShooterContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fatima\Desktop\STARShooter [working]\STARShooter\STARShooter\STARShooterContent\obj\x86\Debug\ResolveAssemblyReference.cache
