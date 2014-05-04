@@ -66,6 +66,7 @@ namespace STARShooter
             boundingRect.Y = (int)(position.Y - sprite.Height / 2);
         }
 
+	//Rotates the player left
         public void rotateLeft(float elapsed)
         {
             rotationAngle -= (float)(Math.PI / 180) * rotateMultiplier;
