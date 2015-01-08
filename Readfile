@@ -1,0 +1,9 @@
+# starShooter
+
+Written in C# and the XNA Game Studio Framework.
+
+Started out as an asteroid shooter + tower defense game. 
+
+You pilot your ship and protect your planet (center) from enemy attacks. 
+The acceleration of your ship as well as the attack of the enemies is subject to gravitational pull.
+(designed using Math.tan)
